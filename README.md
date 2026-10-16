@@ -41,3 +41,15 @@ This is a portfolio project using a practice dataset.
 - `Ecommerce_Sales_Analysis.ipynb` - Python analysis notebook
 - `ecommerce_sales_analysis_dataset.csv` - Practice dataset
 - `visualizations` - Sales analysis charts
+
+## Key Findings
+
+- Total Revenue: ₹19,194,582.88
+- Total Profit: ₹4,317,864.60
+- Total Orders: 600
+- Unique Customers: 150
+- Top Revenue-Generating Product: Laptop
+- Highest Revenue Month: April 2025, with ₹2,878,572.20
+- Top Revenue-Generating City: Ahmedabad, with ₹2,989,993.51
+
+Note: This project uses a practice dataset for learning and portfolio purposes.
