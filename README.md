@@ -28,3 +28,16 @@ patterns.
 
 ## Note
 This is a portfolio project using a practice dataset.
+
+## How to Run
+
+1. Download the project notebook and dataset from this repository.
+2. Open the notebook in Google Colab.
+3. Upload the CSV dataset when prompted.
+4. Run all cells to perform the analysis.
+
+## Project Files
+
+- `Ecommerce_Sales_Analysis.ipynb` - Python analysis notebook
+- `ecommerce_sales_analysis_dataset.csv` - Practice dataset
+- `visualizations` - Sales analysis charts
